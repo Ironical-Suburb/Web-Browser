@@ -1,6 +1,4 @@
 #----------------------------------------------------
-# Lab 4: Web browser simulator
-# Purpose of program:
 # web browser simulator
 # has forward and backward button functionality and add a new site 
 # Author: Priyanshu Pusola 
