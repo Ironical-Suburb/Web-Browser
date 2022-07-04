@@ -1,8 +1,6 @@
 #----------------------------------------------------
 # web browser simulator
 # has forward and backward button functionality and add a new site 
-# Author: Priyanshu Pusola 
-# Collaborators/references: python directory 
 #----------------------------------------------------
 
 def getAction():
