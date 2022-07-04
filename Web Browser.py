@@ -58,6 +58,8 @@ def goBack(current, pages):
     
     if ( current-1 <= len(pages)):
         return current -1 
+    if current < 0:
+        print('Cannot go back')
     else:
         print('Cannot go back')
         
